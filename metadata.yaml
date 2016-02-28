@@ -1,0 +1,24 @@
+_repo: How-to-Speak-and-Write-Correctly_6409
+creator:
+  author:
+    agent_name: Devlin, Joseph
+    gutenberg_agent_id: '2027'
+    url: http://www.gutenberg.org/2009/agents/2027
+description: ''
+gutenberg_issued: '2004-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6409'
+  lccn: '10030160'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English language -- Usage'
+- !lcsh 'English language -- Style'
+- !lcsh 'English language -- Grammar'
+- !lcsh 'English language -- Rhetoric'
+- !lcc 'PE'
+title: How to Speak and Write Correctly
+url: http://www.gutenberg.org/ebooks/6409
